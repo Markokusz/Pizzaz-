@@ -25,3 +25,24 @@ body{
     
 }
 
+form {
+    background-color: transparent; 
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    margin-top: 110px;
+    text-align: center; 
+}
+
+input, select {
+    height: 40px;
+    font-size: 16px;
+    padding: 5px;
+    border: none; 
+    border-bottom: 1px solid #000; 
+    background-color: transparent; 
+    text-align: center; 
+    outline: none; 
+    width: 100%; 
+}
+
