@@ -6,6 +6,9 @@ body{
     background-image: url(https://imgs.search.brave.com/4TGdH5Eoxo3FxjOmlMU8bAebwEWc8DFnyJlY4lKkRgA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aWtlYS5jb20vaHUv/aHUvaW1hZ2VzL3By/b2R1Y3RzL3Nhbm5h/aGVkLWtlcGtlcmV0/LWZla2V0ZV9fMDgz/NTUxN19wZTc3ODQ1/MF9zNS5qcGc_Zj14/eHM);
     background-repeat: no-repeat;
     background-size: cover;
+    align-items: center;
+    align-self: center;
+    align-content: center;
 }
 
 .cim{
